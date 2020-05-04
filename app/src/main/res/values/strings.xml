@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLdatabaseExample</string>
+    <string name="hint_name">Please enter name</string>
+    <string name="hint_cell">Please enter cell Number</string>
+    <string name="btn_submit">Submit</string>
+    <string name="show_data">Show data</string>
+    <string name="edit_data">Edit data</string>
+    <string name="delete_data">Delete data</string>
+    <string name="data">Data from the database displayed here</string>
+</resources>
